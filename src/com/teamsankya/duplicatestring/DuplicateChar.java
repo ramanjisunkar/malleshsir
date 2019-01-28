@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	
 	System.out.println("hi this ram... how are you mehaboob");
 	System.out.println("hi mehaboob...");
+	System.out.println("hi ramanji....");
 	char carr[]= {'k','a','r','n','a','t','a','k','a'};
 	System.out.println("program to print duplicate character in string");
 	System.out.print("original stirng=");
