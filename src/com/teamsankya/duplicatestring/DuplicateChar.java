@@ -10,7 +10,7 @@ public class DuplicateChar {
 public static void main(String[] args) {
 
 	
-	System.out.println("hi this ram...");
+	System.out.println("hi this ram... how are you mehaboob");
 	System.out.println("hi mehaboob...");
 	char carr[]= {'k','a','r','n','a','t','a','k','a'};
 	System.out.println("program to print duplicate character in string");
