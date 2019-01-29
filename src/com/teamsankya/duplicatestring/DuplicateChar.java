@@ -50,16 +50,7 @@ public static void main(String[] args) {
 	for (char c : h.keySet()) {
 		
 		System.out.print(c);
-		
 	}
-	
-	
-	
-	
-	
-	
-	
-	
 	//System.out.println("");
 	//System.out.print("duplicate character=");
 	
