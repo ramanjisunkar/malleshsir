@@ -1,14 +1,11 @@
 package com.teamsankya.duplicatestring;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
-import javax.swing.plaf.basic.BasicScrollPaneUI.HSBChangeListener;
 public class DuplicateChar {
 	
 public static void main(String[] args) {
-
+	
 	
 	System.out.println("hi this ram... how are you mehaboob");
 	System.out.println("hi mehaboob...");
